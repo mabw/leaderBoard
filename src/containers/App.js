@@ -8,7 +8,7 @@ const App = () => {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   useEffect(() => {
-    const timer = setInterval(() => dispatch({ type: "shuffleScore" }), 300);
+    const timer = setInterval(() => dispatch({ type: "shuffleScore" }), 400);
     return () => clearInterval(timer);
   }, []);
 

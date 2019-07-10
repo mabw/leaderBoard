@@ -3,32 +3,34 @@ import React, { useEffect, useState } from "react";
 import { StreamerContainer } from "./app.style";
 
 const ListItem = ({ item, rank }) => {
-  const [score, setScore] = useState(null);
+  const [state, setState] = useState({ score: null });
 
   useEffect(() => {
     let timer = null;
-    if (score !== null && score < item.score) {
-      const step = ~~((item.score - score) / 2);
+    if (state.score !== null && state.score < item.score) {
+      const step = ~~((item.score - state.score) / 3);
       timer = requestAnimationFrame(() => {
-        setScore(prevScore => prevScore + step);
+        setState(prevState => ({ score: prevState.score + step }));
       });
     } else {
-      setScore({ score: item.score });
+      setState({ score: item.score });
     }
 
     return () => {
       cancelAnimationFrame(timer);
     };
-  }, [item.score, score]);
+  }, [item.score, state.score]);
 
   return (
     <StreamerContainer rank={rank}>
-      <span>{rank + 1}</span>
-      <span>
+      <div className="avatar">
         <img src={item.picture} alt={item.displayName} />
-      </span>
-      <span>{item.displayName}</span>
-      <span>{score}</span>
+        <span className="rank">{rank + 1}</span>
+      </div>
+      <div className="score-bar">
+        <span className="name">{item.displayName}</span>
+        <span className="score">{state.score}</span>
+      </div>
     </StreamerContainer>
   );
 };
