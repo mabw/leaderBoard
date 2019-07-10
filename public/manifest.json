@@ -1,0 +1,8 @@
+{
+  "short_name": "Leader board",
+  "name": "Leader board",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
