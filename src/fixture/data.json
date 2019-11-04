@@ -1,62 +1,542 @@
 [
   {
-    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec840",
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec8401",
     "displayName": "Jone",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
     "score": 10
   },
   {
-    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc1",
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc12",
     "displayName": "Victoria",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
     "score": 9
   },
   {
-    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d",
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d3",
     "displayName": "Joy",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
     "score": 8
   },
   {
-    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad9250",
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad92504",
     "displayName": "Quinn",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
     "score": 7
   },
   {
-    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f",
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f5",
     "displayName": "Sheenalo",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
     "score": 6
   },
   {
-    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d26211",
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d262116",
     "displayName": "Charlene",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
     "score": 5
   },
   {
-    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d",
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d7",
     "displayName": "LeonaBaby",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
     "score": 4
   },
   {
-    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e03",
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e038",
     "displayName": "Sunny",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
     "score": 3
   },
   {
-    "userID": "44e1f164-831d-4732-8e49-0cda24369000",
+    "userID": "44e1f164-831d-4732-8e49-0cda243690009",
     "displayName": "ImWord",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
     "score": 2
   },
   {
-    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb",
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb10",
     "displayName": "Dophine",
     "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
     "score": 1
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84011",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 110
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc112",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 19
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d13",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 18
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925014",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 17
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f15",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 16
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621116",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 15
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d17",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 14
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0318",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 13
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900019",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 12
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb20",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 11
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84021",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 210
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc122",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 29
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d23",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 28
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925024",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 27
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f25",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 26
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621126",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 25
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d27",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 24
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0328",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 23
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900029",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 22
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb30",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 21
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84031",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 310
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc132",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 39
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d33",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 38
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925034",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 37
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f35",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 36
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621136",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 35
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d37",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 34
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0338",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 33
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900039",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 32
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb40",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 31
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84041",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 410
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc142",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 49
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d43",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 48
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925044",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 47
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f45",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 46
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621146",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 45
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 44
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0347",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 43
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900048",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 42
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb49",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 41
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84050",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 510
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc151",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 59
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d52",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 58
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925053",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 57
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f54",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 56
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621155",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 55
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d56",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 54
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0357",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 53
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900058",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 52
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb59",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 51
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84060",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 610
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc161",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 69
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d62",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 68
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925063",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 67
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f64",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 66
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621165",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 65
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d66",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 64
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0367",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 63
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900068",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 62
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb69",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 61
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84070",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 710
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc171",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 79
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d72",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 78
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad925073",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 77
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f74",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 76
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621175",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 75
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d76",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 74
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0377",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 73
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900078",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 72
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb79",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 71
+  },
+  {
+    "userID": "4f4d5462-4a9f-483e-b620-9df9c13ec84080",
+    "displayName": "Jone",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_525BEE6E-94B5-4C7F-AB47-1A6F9735EE82.jpg",
+    "score": 810
+  },
+  {
+    "userID": "2c0c5c67-1cfc-4b99-992e-2918b8a0dcc181",
+    "displayName": "Victoria",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_8390066D-46E4-4741-968D-9FF84B276B52.jpg",
+    "score": 89
+  },
+  {
+    "userID": "5100dedb-c2e5-48da-aeaf-83fa49a3482d82",
+    "displayName": "Joy",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_CE9F51C5-7006-4DE6-9059-9AEA98F7DF13.jpg",
+    "score": 88
+  },
+  {
+    "userID": "9ece1a05-eb2d-403a-b179-ccbfc0ad9250",
+    "displayName": "Quinn",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_2A847B03-7BE8-4645-B62A-07201A90EDEF.jpg",
+    "score": 87
+  },
+  {
+    "userID": "32afdaac-a83b-481f-bc5a-1e85c3188c6f83",
+    "displayName": "Sheenalo",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_95D163ED-6BF8-4D09-897C-B2E5320BE462.jpg",
+    "score": 86
+  },
+  {
+    "userID": "a2e0bdd3-0aa0-4fc4-91c2-b8ad00d2621184",
+    "displayName": "Charlene",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_a943a748-16c8-4afa-87a6-8b6ac0e1f47a.jpg",
+    "score": 85
+  },
+  {
+    "userID": "47a35fbb-ce6b-4c82-9973-2a9391b6478d85",
+    "displayName": "LeonaBaby",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_B850B9FF-E1FD-4DFA-8737-E67E32B71B8B.jpg",
+    "score": 84
+  },
+  {
+    "userID": "db8c493f-0a53-4b5f-8ffe-b0967e076e0386",
+    "displayName": "Sunny",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_1A36F357-6EA2-4C77-B26F-588319F26EF2.jpg",
+    "score": 83
+  },
+  {
+    "userID": "44e1f164-831d-4732-8e49-0cda2436900087",
+    "displayName": "ImWord",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_4f761f7d-0b85-45dd-90ad-1444c548abd6.jpg",
+    "score": 82
+  },
+  {
+    "userID": "416089f2-f66a-411a-b275-2151d86dcaeb88",
+    "displayName": "Dophine",
+    "picture": "https://assets-17app.akamaized.net/THUMBNAIL_59946513-FC72-4444-8CC9-991BFFF19C22.jpg",
+    "score": 81
   }
 ]

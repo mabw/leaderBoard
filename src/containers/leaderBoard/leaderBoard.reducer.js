@@ -2,8 +2,8 @@ import streamersData from "../../fixture/data.json";
 
 const shuffleScore = state => {
   const newState = [...state];
-  const randomSelector = ~~(Math.random() * 10);
-  const randomScore = ~~(Math.random() * 10); // Updated for presentation along with the initial data in fixture
+  const randomSelector = ~~(Math.random() * 80);
+  const randomScore = ~~(Math.random() * 100000); // Updated for presentation along with the initial data in fixture
   newState[randomSelector].score = newState[randomSelector].score + randomScore;
 
   return updateRank(newState, randomSelector);
